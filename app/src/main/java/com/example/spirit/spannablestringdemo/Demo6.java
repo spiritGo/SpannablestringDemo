@@ -9,6 +9,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
 
+//失败，有待探究
 public class Demo6 extends Activity {
     private int mode = 0;// 初始状态 记录是拖拉照片模式还是放大缩小照片模式
     private static final int MODE_DRAG = 1;//拖拉照片模式
